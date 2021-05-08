@@ -10,12 +10,12 @@
 `$ sudo ./install.sh`
 
 ## Running the container
-`$ ./run.sh`
+`$ sudo ./run.sh`
 
 #### To specify agent-port:
-`$ ./run.sh -a $AGENT_PORT$` (default:3100)
+`$ sudo ./run.sh -a $AGENT_PORT$` (default:3100)
 
 #### To specify monitor-port: 
-`$ ./run.sh -s $SERVER_PORT$` (default:3200)
+`$ sudo ./run.sh -s $SERVER_PORT$` (default:3200)
 
 
